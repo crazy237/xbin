@@ -1,4 +1,4 @@
-<p align="center"></h1> CRAZY HEROKU BIN </h1><br> <p/>
+<p align="center"></h1> CRAZY BIN CHECKER </h1><br> <p/>
 
 
 ![banner](crazyprince.gif)
@@ -34,6 +34,8 @@
 
 ## 📌 Deploy On Heroku
 <p align="center"><a href="https://heroku.com/deploy?template=https://github.com/crazy237/xbin"> <img src="https://img.shields.io/badge/Deploy%20To%20Heroku-black?style=for-the-badge&logo=heroku" width="220" height="38.45"></p></a>
+
+* [🦄 Join Free cc valid 🦄](https://chat.whatsapp.com/IgO9itnJgGi2K3u3Kqulp3)
 
 ## 🏷 Environment Variables
   - `API_ID` - Your Telegram API ID.Get it [Here](my.telegram.org)
