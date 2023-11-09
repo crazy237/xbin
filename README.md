@@ -3,7 +3,7 @@
 
 
 
-![banner](crazyprince.gif)
+![banner](https://telegra.ph/file/d442c9a59fe8fccc63c03.mp4)
 <p align="center"> 
 <u>👑 𝙱𝙾𝚃 𝚃𝙴𝙻𝙴𝙶𝚁𝙰𝙼 𝙲𝚁𝙴𝙴 𝙿𝙰𝚁 𝙲𝚁𝙰𝚉𝚈 👑</u>
 </p>
