@@ -1,12 +1,7 @@
 <p align="center"></h1> CRAZY HEROKU BIN </h1><br> <p/>
 
 
-
-
-<p align="center">
-    <img src="https://lien_de_l_image.jpg" alt="Banner">
-</p>
-
+![banner](crazyprince.gif)
 
 
 <p align="center"> 
