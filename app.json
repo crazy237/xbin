@@ -1,0 +1,36 @@
+{
+  "name": "Bin Checker Bot",
+  "description": "Open Source bot to check Bin Valid or Invalid",
+  "keywords": [
+    "Bin-Checker-Bot",
+    "Telegram",
+    "Bins"
+  ],
+  "repository": "https://github.com/CrazyPrince/Crazy-bin-Bot",
+  "logo": "https://telegra.ph/file/e28bc04da8e18ad26b67a.jpg",
+  
+  "env": {
+    "BOT_OWNER": {
+      "description": "Entre la valeur 'Crazy_Prince' sachez qu'elle fonctionne comme une clé d'API",
+      "required": true
+    },
+    "API_ID": {
+      "description": "Entrez votre API_ID, obtiens le sur my.telegram.org/apps",
+      "required": true
+    },
+    "API_HASH": {
+      "description": "Entrez votre API_HASH, obtiens ke sur my.telegram.org/apps",
+      "required": true
+    },
+    "BOT_TOKEN": {
+      "description": "Entrez votre Bot token, obtiens le de @BotFather",
+      "required": true
+    }
+  },
+  
+  "buildpacks": [
+    {
+      "url": "heroku/python"
+    }
+  ]
+}
