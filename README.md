@@ -24,6 +24,11 @@
 
 **A Telegram Bin Checker Bot made with python for check Bin valid or Invalid.**
 
+<span style="color=orange;">**🤓 NEED Contributors**</span>
+>
+> **I need contributors to increase the Gates of the bot and also make it compatible for deployment on Heroku, because currently the bot is only deployable on a vps.**
+>
+
 <p><a href="https://github.com/crazy237/xbin"><img src="https://img.shields.io/github/forks/crazy237/xbin?style=social"></a></p>
 <a href="https://github.com/crazy237/xbin"><img src="https://img.shields.io/github/stars/crazy237/xbin?style=social"></a>
 
